@@ -1,0 +1,9 @@
+degug/
+release/
+*.o
+*.exe
+*.user
+*.stash
+Makefile
+Makefile.Debug
+Makefile.Release
